@@ -1,5 +1,6 @@
 {
     "name": "codespaces-go",
-    "dockerComposeFile": ["docker-compose.yml"],
+    //"dockerComposeFile": ["docker-compose.yml"],
+    "dockerFile": "Dockerfile",
     // 中略
 }
