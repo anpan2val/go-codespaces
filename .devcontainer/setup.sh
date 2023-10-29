@@ -37,4 +37,4 @@ go install github.com/uudashr/gopkgs/cmd/gopkgs@latest
 go install github.com/zmb3/gogetdoc@latest
 go install golang.org/x/lint/golint@latest
 go install golang.org/x/tools/cmd/gorename@latest
-#go install github.com/cweill/gotests/...@latest
+go install github.com/cweill/gotests/...@latest
